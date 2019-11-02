@@ -1,2 +1,2 @@
 # git-practice2test
-test2
+test
